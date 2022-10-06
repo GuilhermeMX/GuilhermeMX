@@ -1,4 +1,4 @@
-### Olá, dev! 👋
+### Olá, devs! 👋
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente focado em Javascript, React e outras bibliotecas js.
