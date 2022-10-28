@@ -4,7 +4,7 @@
 - 🌱 Atualmente focado em Javascript, React e outras bibliotecas js.
 - 👯 Busco colaborar com projetos open source.
 - 📫 Contate-me pelo email: guilhermenen15@gmail.com.
-- ⚡ Fun fact: Entusiasta em game development e finanças.
+- ⚡ Randon fact: Entusiasta em game development e finanças.
 
 <div>
   <a href="https://github.com/GuilhermeMX">
