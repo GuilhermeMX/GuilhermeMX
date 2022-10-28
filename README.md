@@ -1,7 +1,7 @@
 ### Olá, devs! 👋
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente focado em Javascript, React e outras bibliotecas js.
+- 🌱 Atualmente focado em typescript, javascript, node, react e outras bibliotecas js.
 - 👯 Busco colaborar com projetos open source.
 - 📫 Contate-me pelo email: guilhermenen15@gmail.com.
 - ⚡ Randon fact: Entusiasta em game development e finanças.
