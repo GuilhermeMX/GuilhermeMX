@@ -1,4 +1,4 @@
-### Olá, devs! 👋
+### Hi, i'm Guilherme! 👋
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente focado em typescript, javascript, node, react e outras bibliotecas js.
