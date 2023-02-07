@@ -3,8 +3,8 @@
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente focado em typescript, javascript, node, react e outras bibliotecas js.
 - 👯 Busco colaborar com projetos open source.
-- 📫 Contate-me pelo email: guilhermenen15@gmail.com.
-- ⚡ Randon fact: Entusiasta em game development e finanças.
+- 📫 Fale comigo: guilhermenen15@gmail.com.
+- ⚡ Open to work abroad!  
 
 <div>
   <a href="https://github.com/GuilhermeMX">
