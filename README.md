@@ -3,7 +3,7 @@
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente focado em javascript, typescript, node, react e desenvolvimento mobile.
 - 👯 Busco colaborar com projetos open source.
-- 📫 Fale comigo/talk with me: guilhermenen15@gmail.com.
+- 📫 Fale comigo/Talk with me: guilhermenen15@gmail.com.
 - ⚡ Open to work abroad!  
 
 <div>
