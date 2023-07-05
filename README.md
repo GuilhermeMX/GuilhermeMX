@@ -1,7 +1,7 @@
 ### Hi, i'm Guilherme! 👋
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente focado em javascript, typescript, node, react e desenvolvimento mobile.
+- 🌱 Atualmente focado em javascript, typescript, Python e PHP.
 - 👯 Busco colaborar com projetos open source.
 - 📫 Fale comigo/Talk with me: guilhermenen15@gmail.com.
 - ⚡ Open to work abroad!  
